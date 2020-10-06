@@ -1,8 +1,5 @@
 # Ignore everything
 *
-obshourly/*
-predicted/*
-residuals/*
 
 # Always pass list 
 !.gitignore
