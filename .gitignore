@@ -1,0 +1,16 @@
+# Ignore everything
+*
+obshourly/*
+predicted/*
+residuals/*
+
+# Always pass list 
+!.gitignore
+!README.md
+
+# Specific pass list
+!obshourly/
+!predicted/
+!residuals/
+!*.py
+!station_num_demo.txt
